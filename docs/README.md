@@ -1,22 +1,11 @@
-# Food Delivery App
+# Food Delivery App Group Page
 
-A food delivery app system developed by:
+Group Page requirements pulled from Group Assignment #1 assignment on Canvas:
 
-- Steven Huang
-- Will Ye
-- Luka Gajic
-- Mary Fitzgerald
-- Michael Fulton
+<<Open a Group Homepage for your project work. Write, at least, the project topic, a short description of it, and names of group members on the home page>>
 
-# Instructions
+<<Present the ground rules on the group page>>
 
-(insert build and deployment instructions for setting up the software)
+<<Present the roles and responsibilities on the group page>>
 
-- What software needs to be downloaded?
-- What are the steps to make the application work?
-
-# Contributing
-
-- The project has two main components -- the Android app and the backend system. These are separated by folders App and API
-- Use a Git topic branch when developing
-  - [What is a git topic branch?](https://stackoverflow.com/questions/284514/what-is-a-git-topic-branch)
+<<Present the communication plan on the group page>>

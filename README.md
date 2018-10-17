@@ -1,7 +1,5 @@
 # Food Delivery App
 
-(this one is in the root)
-
 A food delivery app system developed by:
 
 - Steven Huang
